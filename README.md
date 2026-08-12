@@ -39,53 +39,6 @@
 
 ---
 
-### 🔐 Cybersecurity Knowledge
-
-**Core Security Principles**
-- 🛡️ CIA Triad (Confidentiality, Integrity, Availability)
-- 🔑 AAA Framework (Authentication, Authorization, Accounting)
-- ⚠️ DAD Triad (Disclosure, Alteration, Denial)
-
-**Web Application Security**
-- SQL Injection & Bypass Techniques
-- PHP Login Bypass
-- Burp Suite (Proxy, Repeater, Intruder, Decoder)
-- Web Penetration Testing Tools (feroxbuster, JavaScript Deobfuscator)
-
-**Cryptography**
-- Symmetric Encryption (DES, AES, Caesar Cipher)
-- Asymmetric Encryption (RSA)
-- Hash Functions (MD5, SHA, bcrypt)
-- CBC (Cipher Block Chaining)
-- Homomorphic Encryption
-
-**Fundamentals**
-- Computer System Architecture
-- Network Fundamentals & OSI Model
-- Linux Command Line
-- Cloud Computing Basics
-- Virtualization
-- Data Encoding & Representation
-
----
-
-### 💻 Programming Skills
-
-**C/C++ Techniques**
-- Mathematical Operations (Factorial, PI Constants)
-- Precision Control & Decimal Formatting
-- String Manipulation & Type Conversion
-- Operator Precedence & Ternary Operations
-
----
-
-### 📚 Currently Learning
-
-- 📖 **The Web Application Hacker's Handbook**
-- 🔍 Advanced SQL Injection Techniques
-
----
-
 ### 🌐 Connect With Me
 
 <!-- Facebook -->
