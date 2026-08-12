@@ -95,9 +95,20 @@
 
 ### 🌐 Connect With Me
 
-<a href="mailto:your.email@example.com">
+<!-- Facebook -->
+<a href="https://www.facebook.com/Chanawat Chobtumkit" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/Pu-Chanawat" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="mailto:pugamer123456@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 <a href="https://github.com/Pu-Chanawat">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
