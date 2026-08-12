@@ -115,14 +115,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Pu-Chanawat&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pu-Chanawat&layout=compact&theme=radical)
-
----
-
 <p align="center">
   <i>🔒 "Security is not a product, but a process" - Bruce Schneier</i>
 </p>
