@@ -87,9 +87,6 @@
 
 - 📖 **The Web Application Hacker's Handbook**
 - 🔍 Advanced SQL Injection Techniques
-- 🔐 Encryption & Decryption Methods
-- 🌐 Network Security Protocols
-- 🐧 Linux System Administration
 
 ---
 
