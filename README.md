@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 Computer Engineering Student at **Chulalongkorn University**
+🎓 I am currently studying at **Chulalongkorn University, Faculty of Engineering, majoring in Computer Engineering and Digital Technology (CEDT)**
 
 🔐 Passionate about **Cybersecurity | Web Application Security | Cryptography | Competitive Programming** 🛡️💻
 
