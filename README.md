@@ -110,8 +110,6 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pu-Chanawat&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pu-Chanawat&theme=radical)
-
 ---
 
 <p align="center">
