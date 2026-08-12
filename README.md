@@ -14,9 +14,7 @@
 
 🎓 I am currently studying at **Chulalongkorn University, majoring in Computer Engineering and Digital Technology (CEDT)**
 
-🔐 Passionate about **Cybersecurity | Web Application Security | Cryptography | Competitive Programming** 🛡️💻
-
-📚 Currently learning through hands-on practice with **SQL Injection | Burp Suite | Encryption | Network Fundamentals**
+🔐 Passionate about **Cybersecurity | Web Application Security | Competitive Programming** 🛡️💻
 
 ---
 
