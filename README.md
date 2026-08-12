@@ -96,12 +96,12 @@
 ### 🌐 Connect With Me
 
 <!-- Facebook -->
-<a href="[https://www.facebook.com/Chanawat Chobtumkit](https://web.facebook.com/chanavat.chobtumkit)" target="_blank">
+<a href="https://web.facebook.com/chanavat.chobtumkit" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 <!-- Instagram -->
-<a href="[https://www.instagram.com/Pu-Chanawat](https://www.instagram.com/pu.chanawat/)" target="_blank">
+<a href="https://www.instagram.com/Pu-Chanawat/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
